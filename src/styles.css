@@ -16,7 +16,8 @@ body {
   display: flex;
   flex-direction: column;
   width: 70vh;
-  height: 80vh;
+  height: 100%;
+  padding-bottom: 10px;
   background-color: white;
   overflow: hidden;
 }
